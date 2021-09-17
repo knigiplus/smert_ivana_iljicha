@@ -2,19 +2,21 @@
 <FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
  <description>
   <title-info>
-   <genre>prose_contemporary</genre>
+   <genre>prose_rus_classic</genre>
    <author>
-    <first-name></first-name>
+    <first-name>Лев</first-name>
+    <middle-name>Николаевич</middle-name>
     <last-name>Толстой</last-name>
    </author>
    <book-title>Смерть Ивана Ильича</book-title>
-   <date></date>
+   <date>1886</date>
    <lang>ru</lang>
   </title-info>
   <document-info>
    <author>
-    <first-name>Книги</first-name>
-    <last-name>Плюс</last-name>
+    <first-name></first-name>
+    <last-name>Книги Плюс</last-name>
+    <home-page>https://knigi-plus.ru</home-page>
    </author>
    <program-used>mergeFB2.exe, FictionBook Editor Release 2.6.6</program-used>
    <date value="2021-09-15">15 September 2021</date>
